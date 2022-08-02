@@ -1,4 +1,4 @@
-# Use Case 3
+# Set up simulation
 
 Explain how the user can do an interesting and important thing with your project. Write specific steps and describe the successful outcome.
 
