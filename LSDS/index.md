@@ -1,20 +1,20 @@
 # My Digital Twin Platform Service
 
-Introduce your service using its formal, marketing-approved name and explain what it is intended to help users be successful with.
-
-Ask UX for a nice image to represent your service and put it here.
+The Digital Twins Live Systems Data SDK package lets you create Operational Twin applications in the Unity Editor. Integrate diverse sets of data from live enterprise systems, such as streamed IoT data or traditional database-focused services, into a real-time 3D environment.
 
 ![Placeholder](images/placeholder-1.png)
 
-After reading your introduction, a user should know whether or not your sample project is relevant or interesting to them.
+## Key Features
+​The Digital Twin Platform Live Systems Data services has the following benefits:
 
-Helpful questions you use for writing prompts include:
-* Why would someone want to use it instead of another tool?
-* Who is it designed to be interesting to?
+* **Single Point of Availability** for real-time and historical operational state hosted in multiple data sources.
+* **Customizable Data Processing** for real-time data and data source integration.
+* **Server-side Dynamic Association** of data coming from operational systems and 3D models, using rule-based mappings on integrated data to build relationships.
+* **Handling of Time Series Data** in internal database to facilitate integration and visualization.
+* **Rule-based Event Notification** customizable on the continuous monitoring of the integrated set of streamed data values.
+​
+​
 
-Example of an introductory blurb:
-
- >*Use the Unity Recorder package to capture and save in-game data. For example, use Unity Recorder to record an mp4 file during a game session. The Unity Recorder package also includes an interface for setting-up and triggering recording sessions.*
 
 ## Prerequisites and system requirements
 
