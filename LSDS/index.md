@@ -1,4 +1,4 @@
-# My Digital Twin Platform Service
+# Digital Twins Live Systems Data SDK
 
 The Digital Twins Live Systems Data SDK package lets you create Operational Twin applications in the Unity Editor. Integrate diverse sets of data from live enterprise systems, such as streamed IoT data or traditional database-focused services, into a real-time 3D environment.
 
